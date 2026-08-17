@@ -1,0 +1,19 @@
+{
+  "name": "app-release",
+  "version": "1.0.0",
+  "description": "Tauri auto-updater release repository hosting updater manifest JSONs and web landing page",
+  "type": "module",
+  "main": "scripts/update-release.mjs",
+  "scripts": {
+    "update": "node scripts/update-release.mjs",
+    "release": "node scripts/update-release.mjs"
+  },
+  "keywords": [
+    "tauri",
+    "tauri-updater",
+    "release",
+    "desktop-release"
+  ],
+  "author": "",
+  "license": "MIT"
+}

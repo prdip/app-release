@@ -1,0 +1,11 @@
+{
+  "version": "v0.0.1",
+  "notes": "app version 0.0.1 update for jkjwell",
+  "pub_date": "2026-08-14T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOWhiZkNpRDhubENuRHNpeEl2aVVtV1RkTWcyeDBzaHE5Z1Q2dFZFdmNVWnVZWWRnZ2JJdzk5SnY5VjhKNUJjbVJUYjdreFpwM1hQU2JBTVVnUWcyODJIRXpsSnl4M2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Njk5MDM5CWZpbGU6c2FnYXJBcXVhX21vdG9yXzAuMy43NV94NjQtc2V0dXAuZXhlCjIxN3VFTTVTMk8zOTZRRlRuZ0YzUmVQVk1ZazFMTDdBU0htSFFiMXJtQXVmbHBKbUtIZkp5QVRBZXFWS04wQTZ2MzMvMFdOb2JWdHlicnhVWVVuc0NBPT0K",
+      "url": "https://github.com/prdip/app-release/releases/download/v1/jkjwell_0.0.1_x64-setup.exe"
+    }
+  }
+}
