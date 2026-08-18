@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.2",
-  "notes": "app version 0.1.2 update for jkjwell",
+  "version": "v0.1.3",
+  "notes": "app version 0.1.3 update for jkjwell",
   "pub_date": "2026-08-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHdiU0x6cnhyb2Vtb0VXQWtZWGlVeEpmSzRLUmMwYllOZmhxQlRaRVdlbGdiUWlxWncxcjJsWVJrbHd5NU1BblZaOXZzQTBLMG5UaloydWU3RTBWbjR6aTRSYTVmV0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDI5OTU3CWZpbGU6SktKRVdFTCBFUlBfMC4xLjJfeDY0LXNldHVwLmV4ZQpzV09FZ0ZjNkw5VW9JK1NHcGhQR0ZwWmI3V0xheDZZTTJYVm83UEVBNzNiRGNDS1RoWEZsVVpRWG5hdXpFclpqeklrK1owc2krUlVlVk90dXlYeURCdz09Cg==",
-       "url": "https://github.com/prdip/app-release/releases/download/v1/JKJEWEL.ERP_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHdiU0x6cnhyb2NKY09yRWVXN2lVZklnZjZmKzBiQ21XVEI3YitDejVNZWhiK0FqdTRVZTlldGhOY3J0THI0bGZXRVQvUkVEWURXMWh6a0NjU0hNb0pmS0NNdzVXZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDMwMjg2CWZpbGU6SktKRVdFTCBFUlBfMC4xLjNfeDY0LXNldHVwLmV4ZQpLQ25KQjVNMEllWkMyU2Z4UmxjTysvVHZHK0N6Nm8xT2tOc1VJdHRSU25FSGw2bDVHTjRwS0JZcGNzUlc4QmUyTCtkaExONjYyM0ZHYVk2dGJmVDREdz09Cg==",
+       "url": "https://github.com/prdip/app-release/releases/download/v1/JKJEWEL.ERP_0.1.3_x64-setup.exe"
     }
   }
 }
